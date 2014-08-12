@@ -1,3 +1,3 @@
 Drupal Sandbox
 ======
-This is my Drupal snadbox. I will be madded plrenty of views and features in time.
+This is my Drupal sandbox. I will be adding plenty of views and features in time.
